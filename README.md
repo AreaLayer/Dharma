@@ -1,2 +1,3 @@
 # Dharma
-Crowdfuding on Liquid 
+
+Crowdfuding on Liquid for Startups and Bitcoin-only projects and products
